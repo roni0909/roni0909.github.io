@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    font-size:75px;
+    color: #ff4900; 
+    font:serif;
+}
+h3{
+    text-align:center;
+    font-size:70px;
+    color:#ff6a6a;
+}
+table{
+    width:100%;
+    background:#d5ffdf;
+    
+}
+th,td{
+    border:1px solid violet;
+    font-size:55px;
+    color:#2b6dff;
+    
+}
